@@ -153,20 +153,6 @@ php -S localhost:8000
 
 ## 📝 License
 
-This PDF Viewer is part of the BrewNode Server project.
 Licensed under the **Beerware License** 🍺
-
-## 🤝 Contributing
-
-This is part of the larger BrewNode Server project. See the main repository for contribution guidelines.
-
-## 📞 Support
-
-For issues or questions:
-- 📧 Email: dave@brewnode.co.uk
-- 🐙 GitHub: [BrewnodeDave/brewnode-server](https://github.com/BrewnodeDave/brewnode-server)
-- 🌐 Website: [BrewNode Documentation](https://github.com/BrewnodeDave/brewnode-server#readme)
-
----
 
 **Made with 🍺 by the BrewNode Team**
